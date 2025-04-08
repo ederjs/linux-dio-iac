@@ -7,4 +7,4 @@ Script para criação de usuários
 Script para criação de repositórios
 Script para criação das permissões
 
-Observação: Para criação de usuários foi necessário substituir o comando -crypt por -6 devido a nova versão do Ubuntu
+**Observação:** Para criação de usuários foi necessário substituir o comando -crypt por -6 devido a nova versão do Ubuntu
